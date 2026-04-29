@@ -16,7 +16,7 @@ All datasets are provided so you can:
 - Work on real-life case studies  
 
 📌 All datasets are available here:  
-👉 **Google Drive Link:** https://drive.google.com/your-dummy-link
+👉 **Google Drive Link:** [https://drive.google.com/SQL_Pratice_DataSets](https://drive.google.com/drive/folders/1t4b8lJKPvk32k_r7O74PT3LD31q558q4?usp=drive_link)
 
 ---
 
