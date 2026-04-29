@@ -33,7 +33,6 @@ All datasets are provided so you can:
 | 07 | Music Store Database | |
 | 08 | Library Management System | |
 | 09 | Data Jobs Insight 2024 | |
-| 10 | CSV Files | |
 
 ---
 
