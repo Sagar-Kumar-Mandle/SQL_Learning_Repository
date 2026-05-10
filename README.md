@@ -22,17 +22,17 @@ All datasets are provided so you can:
 
 ## 📁 Datasets Included
 
-| No. | Dataset | Description |
-|-----|--------|------------|
-| 01 | Retail Sales Performance Analysis | |
-| 02 | Walmart Retail Analytics | |
-| 03 | Application Submissions Data | |
-| 04 | Spotify Music Data Analysis | |
-| 05 | Netflix Data Analysis | |
-| 06 | Pizza Sales Performance | |
-| 07 | Music Store Database | |
-| 08 | Library Management System | |
-| 09 | Data Jobs Insight 2024 | |
+| No. | Dataset |
+|-----|--------|
+| 01 | Retail Sales Performance Analysis |
+| 02 | Walmart Retail Analytics |
+| 03 | Application Submissions Data |
+| 04 | Spotify Music Data Analysis |
+| 05 | Netflix Data Analysis |
+| 06 | Pizza Sales Performance |
+| 07 | Music Store Database |
+| 08 | Library Management System |
+| 09 | Data Jobs Insight 2024 |
 
 ---
 
