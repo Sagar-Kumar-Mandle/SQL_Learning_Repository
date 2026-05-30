@@ -1,0 +1,3 @@
+-- DATABASE CREATION
+
+CREATE DATABASE pizza_sales;
